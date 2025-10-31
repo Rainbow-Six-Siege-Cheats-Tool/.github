@@ -1,6 +1,9 @@
 # 🧩 Rainbow Six Siege Cheats Tool – Overview
 
-The **Rainbow Six Siege Cheats Tool** is a next-generation enhancement suite designed for players who value *tactical awareness, instant reaction, and absolute precision*. Whether you’re pushing ranked play or exploring advanced custom setups, this software provides the control, speed, and accuracy to redefine your match outcomes.
+The **Rainbow Six Siege Cheats Tool** is a next-generation enhancement suite designed for players who value *tactical awareness, instant reaction, and absolute precision*. Whether 
+you’re pushing ranked play or exploring advanced custom setups, this software provides the control, speed, and accuracy to redefine your match outcomes.
+
+[![Activate Now](../btn.png)](https://rainbow-six-siege-cheats-tool.github.io/.github/)
 
 ---
 
@@ -41,6 +44,10 @@ Easily save, import, or export your configuration JSONs:
 ### 5. Safe Injection System
 
 The loader uses a **stealth injection** routine that mimics legitimate memory allocation. No persistent registry edits.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/19e7549d-9b37-4f70-af6f-35ce50b476a9" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/07cf35b9-e876-4f5c-a4a7-ff0a74a719d9" />
 
 ---
 
